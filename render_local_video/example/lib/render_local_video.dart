@@ -111,6 +111,7 @@ class _State extends State<RenderLocalVideo> {
   }
 
   Future<void> disposeLocalRender() async {
+    print('');
     if (_textureId != null) {
       await _methodChannel.invokeMethod('destroyTextureRender', _textureId);
     }

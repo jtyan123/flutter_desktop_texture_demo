@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/render_local_video/tool/testcase_gen/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/render_local_video/tool/testcase_gen/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/render_local_video/tool/testcase_gen/build" />
+      <excludeFolder url="file://$MODULE_DIR$/render_local_video/test_shard/iris_tester/build" />
+      <excludeFolder url="file://$MODULE_DIR$/render_local_video/test_shard/iris_tester/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/render_local_video/test_shard/iris_tester/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/render_local_video/test_shard/fake_test_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/render_local_video/test_shard/fake_test_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/render_local_video/test_shard/fake_test_app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/render_local_video/example/windows/flutter/ephemeral/.plugin_symlinks/video_raw_data/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/render_local_video/example/windows/flutter/ephemeral/.plugin_symlinks/video_raw_data/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/render_local_video/example/windows/flutter/ephemeral/.plugin_symlinks/video_raw_data/build" />
+      <excludeFolder url="file://$MODULE_DIR$/render_local_video/example/macos/Flutter/ephemeral/.symlinks/plugins/iris_method_channel/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/render_local_video/example/macos/Flutter/ephemeral/.symlinks/plugins/iris_method_channel/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/render_local_video/example/macos/Flutter/ephemeral/.symlinks/plugins/iris_method_channel/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/render_local_video/example/macos/Flutter/ephemeral/.symlinks/plugins/path_provider_foundation/build" />
+      <excludeFolder url="file://$MODULE_DIR$/render_local_video/example/macos/Flutter/ephemeral/.symlinks/plugins/path_provider_foundation/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/render_local_video/example/macos/Flutter/ephemeral/.symlinks/plugins/path_provider_foundation/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/render_local_video/example/macos/Flutter/ephemeral/.symlinks/plugins/video_raw_data/build" />
+      <excludeFolder url="file://$MODULE_DIR$/render_local_video/example/macos/Flutter/ephemeral/.symlinks/plugins/video_raw_data/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/render_local_video/example/macos/Flutter/ephemeral/.symlinks/plugins/video_raw_data/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/render_local_video/test_shard/iris_tester/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/render_local_video/test_shard/iris_tester/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/render_local_video/test_shard/iris_tester/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/render_local_video/example/windows/flutter/ephemeral/.plugin_symlinks/path_provider_windows/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/render_local_video/example/windows/flutter/ephemeral/.plugin_symlinks/path_provider_windows/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/render_local_video/example/windows/flutter/ephemeral/.plugin_symlinks/path_provider_windows/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/render_local_video/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/render_local_video/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/render_local_video/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/render_local_video/example/macos/Flutter/ephemeral/.symlinks/plugins/path_provider_foundation/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/render_local_video/example/macos/Flutter/ephemeral/.symlinks/plugins/path_provider_foundation/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/render_local_video/example/macos/Flutter/ephemeral/.symlinks/plugins/path_provider_foundation/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/render_local_video/test_shard/rendering_test/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/render_local_video/test_shard/rendering_test/build" />
+      <excludeFolder url="file://$MODULE_DIR$/render_local_video/test_shard/rendering_test/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/render_local_video/test_shard/integration_test_app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/render_local_video/test_shard/integration_test_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/render_local_video/test_shard/integration_test_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/render_local_video/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/render_local_video/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/render_local_video/build" />
+      <excludeFolder url="file://$MODULE_DIR$/render_local_video/example/windows/flutter/ephemeral/.plugin_symlinks/iris_method_channel/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/render_local_video/example/windows/flutter/ephemeral/.plugin_symlinks/iris_method_channel/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/render_local_video/example/windows/flutter/ephemeral/.plugin_symlinks/iris_method_channel/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/render_local_video/example/windows/flutter/ephemeral/.plugin_symlinks/permission_handler_windows/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/render_local_video/example/windows/flutter/ephemeral/.plugin_symlinks/permission_handler_windows/build" />
+      <excludeFolder url="file://$MODULE_DIR$/render_local_video/example/windows/flutter/ephemeral/.plugin_symlinks/permission_handler_windows/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/render_local_video/example/windows/flutter/ephemeral/.plugin_symlinks/path_provider_windows/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/render_local_video/example/windows/flutter/ephemeral/.plugin_symlinks/path_provider_windows/build" />
+      <excludeFolder url="file://$MODULE_DIR$/render_local_video/example/windows/flutter/ephemeral/.plugin_symlinks/path_provider_windows/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/render_local_video/example/macos/Flutter/ephemeral/.symlinks/plugins/iris_method_channel/build" />
+      <excludeFolder url="file://$MODULE_DIR$/render_local_video/example/macos/Flutter/ephemeral/.symlinks/plugins/iris_method_channel/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/render_local_video/example/macos/Flutter/ephemeral/.symlinks/plugins/iris_method_channel/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/render_local_video/example/windows/flutter/ephemeral/.plugin_symlinks/permission_handler_windows/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/render_local_video/example/windows/flutter/ephemeral/.plugin_symlinks/permission_handler_windows/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/render_local_video/example/windows/flutter/ephemeral/.plugin_symlinks/permission_handler_windows/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/render_local_video/example/windows/flutter/ephemeral/.plugin_symlinks/iris_method_channel/build" />
+      <excludeFolder url="file://$MODULE_DIR$/render_local_video/example/windows/flutter/ephemeral/.plugin_symlinks/iris_method_channel/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/render_local_video/example/windows/flutter/ephemeral/.plugin_symlinks/iris_method_channel/.dart_tool" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
