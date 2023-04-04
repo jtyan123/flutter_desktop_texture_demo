@@ -82,7 +82,6 @@ class _MyHomePageState extends State<MyHomePage> {
 
   Future<void> createLocalRender() async {
     _textureId = await TestTexturePlatform.instance.createLocalRender();
-    print('');
   }
 
   Future<void> disposeLocalRender() async {
