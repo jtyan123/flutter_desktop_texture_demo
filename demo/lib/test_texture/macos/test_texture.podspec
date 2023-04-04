@@ -15,6 +15,7 @@ A new Flutter project.
 
   s.source           = { :path => '.' }
   s.source_files     = 'Classes/**/*'
+  s.resource = 'Assets.xcassets'
   s.dependency 'FlutterMacOS'
 
   s.platform = :osx, '10.11'
